@@ -1,2 +1,4 @@
 # -
 ссылка на ботов
+https://discordapp.com/api/webhooks/620729968804102164/pfThijYTUJdKxToKY7FL5CFVTRYA_XeHbF2d9cItF4CNzpNB_hwhorU2o3rtiwDcKyLj
+https://discordapp.com/api/webhooks/735254199499096205/GTKZqjqqwgS3H2PGKzkr1zNxC3d_iLgRyK2eoeqIy5y6_Hb_R-myWfAd89NDOyhs2fOp
