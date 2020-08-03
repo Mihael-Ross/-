@@ -1,4 +1,7 @@
 # -
-ссылка на ботов
+ссылка на Вебхуки
 https://discordapp.com/api/webhooks/620729968804102164/pfThijYTUJdKxToKY7FL5CFVTRYA_XeHbF2d9cItF4CNzpNB_hwhorU2o3rtiwDcKyLj
 https://discordapp.com/api/webhooks/735254199499096205/GTKZqjqqwgS3H2PGKzkr1zNxC3d_iLgRyK2eoeqIy5y6_Hb_R-myWfAd89NDOyhs2fOp
+https://discordapp.com/api/webhooks/698989205799567560/EIqgWSt4wUJ720k1CtfaBsutHPbWbMNCbp-_snDuLgt_KfBqXlH4e4tcGSg8FlchnjFF 
+MEE6 https://discordapp.com/api/webhooks/724754942765563984/5t-EYEfqjVBFJbqUm5KrTERxAyk05043WutKKpgpNxEm7J4BD_CHevkx5Bc-Iamk4n2h
+https://discordapp.com/api/webhooks/724754995307872377/uQXUfIcLM_ouoaGHAVPvW-69MYpdSSdZSewPgYNFQjcfvoBxk3q7YEdXR-Xt-o3quaj6
